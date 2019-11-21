@@ -4,7 +4,7 @@ This page showcases the knowledge and skills I've acquired during the Microsoft 
 The dataset consists of 21 variables, such as demographics, location, property type, lender, etc., that are to be used for the prediction of mortgage rate spreads across the United States. I trained a CatboostRegressor model on 20.000 mortgage loan applications and concluded that the lender, loan amount, property type, loan type and applicant income have the most significant impact on the mortgage loan rate spread.
 
 The full description of the challange and the leaderboard can be found here:
-https://www.datasciencecapstone.org/competitions/18/mortgage-rates-from-government-data/page/55/
+https://www.datasciencecapstone.org/competitions/18/mortgage-rates-from-government-data/page/55/ /n
 Currently the project is still live.
 Current rank: 47/690.
 
