@@ -9,3 +9,5 @@ Currently the project is still live.<br/>
 Current rank (Paradjs): 47/690.<br/>
 
 -------------------------------------------------------------------------------------------------------------------------------------------
+
+Please note that the provided Jupyter Notebook iPython files were run within the Microsoft Azure Machine Learning Studio (classic) environment.
