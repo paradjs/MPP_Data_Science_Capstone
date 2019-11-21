@@ -7,6 +7,5 @@ The full description of the challange and the leaderboard can be found here:
 https://www.datasciencecapstone.org/competitions/18/mortgage-rates-from-government-data/page/55/<br/>
 Currently the project is still live.<br/>
 Current rank: 47/690.<br/>
-You can read the executive report here.
 
 -------------------------------------------------------------------------------------------------------------------------------------------
